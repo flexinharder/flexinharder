@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi
 
-<!--
-**flexinharder/flexinharder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist @ Big Tech | Math, Machine Learning, Analytics, & Scalable Systems**
 
-Here are some ideas to get you started:
+Welcome to my corner of GitHub, I'm pretty private. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nature is patient, yet everything is accomplished. Building models that understand more than we do.
+---
+
+### 🧠 About Me
+- 💼 Currently working as a **Data Scientist** in big tech  
+- 🔍 Focused on **applied ML**, **behavioral modeling**, and **large-scale system implementation**  
+- ⚙️ Experienced with **AWS**, **Azure**, **PyTorch**, and **data pipelines**  
+
+---
+
+### 🧰 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,pytorch,sqlite,postgres,fastapi,html,css,git)](https://skillicons.dev)
+
+
