@@ -1,6 +1,6 @@
-# 👋 Hi
+# Hi
 
-🎯 **Data Scientist @ Big Tech | Math, Machine Learning, Analytics, & Scalable Systems**
+ **Data Scientist @ Big Tech | Math, Machine Learning, Analytics, & Scalable Systems**
 
 Welcome to my corner of GitHub, I'm pretty private. 
 
@@ -8,9 +8,9 @@ Nature is patient, yet everything is accomplished. Building models that understa
 ---
 
 ### 🧠 About Me
-- 💼 Currently working as a **Data Scientist** in big tech  
-- 🔍 Focused on **applied ML**, **behavioral modeling**, and **large-scale system implementation**  
-- ⚙️ Experienced with **AWS**, **Azure**, **PyTorch**, and **data pipelines**  
+-  Currently working as a **Data Scientist** in big tech  
+-  Focused on **applied ML**, **behavioral modeling**, and **large-scale system implementation**  
+-  Experienced with **AWS**, **Azure**, **PyTorch**, and **data pipelines**  
 
 ---
 
