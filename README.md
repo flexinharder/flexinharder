@@ -1,8 +1,7 @@
 # Hi
 
- **Data Scientist @ Big Tech | Math, Machine Learning, Analytics, & Scalable Systems**
+ **Welcome to my corner of GitHub, I'm pretty private. **
 
-Welcome to my corner of GitHub, I'm pretty private. 
 
 Nature is patient, yet everything is accomplished. Building models that understand more than we do.
 ---
