@@ -54,7 +54,7 @@ Building systems that will set a new standard. Dominating our small corner of th
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=flexinharder&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=1e3a5f" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=flexinharder&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=1e3a5f"/>
 
 <img src="https://ghchart.rshah.org/0ea5e9/flexinharder" alt="contributions" width="100%" />
 
