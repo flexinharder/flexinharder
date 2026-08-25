@@ -6,7 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=flexinharder&label=Profile%20views&color=0ea5e9&style=flat-square" alt="views" />
 <a href="https://statlocker.gg"><img src="https://img.shields.io/badge/Statlocker-0d1117?style=flat-square&logo=steam&logoColor=0ea5e9" alt="Statlocker" /></a>
 
 </div>
