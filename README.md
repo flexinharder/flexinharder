@@ -28,14 +28,6 @@ I build models that estimate **what actually caused an outcome** — not just wh
 
 </div>
 
-| | |
-|---|---|
-| **Modeling** | PyTorch · LightGBM · scikit-learn · Optuna · calibration & counterfactual inference · embeddings (item2vec) · Deep Learning|
-| **Data** | PostgreSQL · MySQL · DuckDB · Parquet / pyarrow · pandas · second-resolution temporal feature engineering |
-| **Serving** | FastAPI · AWS · Azure · Systemd GPU workers (ROCm) · object storage (R2) |
-| **Systems** | Go (binary-format parsers, data pipelines) · Bash · agentic tooling for Claude Code (hooks, MCP, subagents) |
-
----
 
 ## Selected Work
 
